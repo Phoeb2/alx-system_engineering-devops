@@ -1,1 +1,1 @@
-List all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+Print the type of a file named iamafile which will be in the /tmp directory when we will run your script
