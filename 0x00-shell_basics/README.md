@@ -1,1 +1,1 @@
-Print the type of a file named iamafile which will be in the /tmp directory when we will run your script
+Create a symbolic link to /bin/ls, named __ls__ in the current working directory
