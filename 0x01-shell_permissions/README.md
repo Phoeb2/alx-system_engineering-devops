@@ -1,1 +1,1 @@
-Adds execution permission to the owner, the group owner and the other users, to the file hello
+Sets the permission to the file hello to the owner and group with no permissions and other users with all permissions
