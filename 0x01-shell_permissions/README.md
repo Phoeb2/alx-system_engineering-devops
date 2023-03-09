@@ -1,1 +1,3 @@
-Sets the permission to the file hello to the owner and group with no permissions and other users with all permissions
+Sets  the mode of the file hello to this:
+
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
