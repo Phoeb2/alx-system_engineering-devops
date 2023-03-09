@@ -1,1 +1,1 @@
-Changes the owner of the file hello to betty only if it is owned by the user guillaume
+Plays the StarWars IV episode in the terminal
